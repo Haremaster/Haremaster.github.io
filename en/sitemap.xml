@@ -628,16 +628,6 @@
       href="https://Haremaster.github.io/en/life/"
     /></url>
   <url>
-    <loc>https://Haremaster.github.io/en/index/</loc><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://Haremaster.github.io/index/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Haremaster.github.io/en/index/"
-    /></url>
-  <url>
     <loc>https://Haremaster.github.io/en/author/hua-xie/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://Haremaster.github.io/en/author/jin-yu-han/</loc><changefreq>weekly</changefreq></url>
@@ -672,6 +662,16 @@
       rel="alternate"
       hreflang="en"
       href="https://Haremaster.github.io/en/tags/"
+    /></url>
+  <url>
+    <loc>https://Haremaster.github.io/en/tour/</loc><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://Haremaster.github.io/tour/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Haremaster.github.io/en/tour/"
     /></url>
   <url>
     <loc>https://Haremaster.github.io/en/author/xiang-gang-qiu/</loc><changefreq>weekly</changefreq></url>
