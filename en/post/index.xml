@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Fields | Welcom to CAS-IOP-SC3</title>
+    <link>https://Haremaster.github.io/en/post/</link>
+      <atom:link href="https://Haremaster.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Fields</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Haremaster.github.io/media/icon_hu7dd17cc0224d3601a310b079fcd176d1_654108_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Fields</title>
+      <link>https://Haremaster.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Parent effect of pressure on copper oxide superconductor</title>
+      <link>https://Haremaster.github.io/en/post/parent-effect-of-pressure-on-copper-oxide-superconductor/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/post/parent-effect-of-pressure-on-copper-oxide-superconductor/</guid>
+      <description>&lt;p&gt;The parent of copper oxide superconductor is studied by high-voltage fine control techniques, including high-voltage in situ resistance, reluctance, Hall effect, magnetic susceptibility, etc. These different methods are combined to provide a more complete picture of the interaction between the degrees of freedom in the related system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Study of quantum phenomena in mesoscopic superconductors</title>
+      <link>https://Haremaster.github.io/en/post/study-of-quantum-phenomena-in-mesoscopic-superconductors/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/post/study-of-quantum-phenomena-in-mesoscopic-superconductors/</guid>
+      <description>&lt;p&gt;When the scale of a material is comparable to one of its characteristic lengths, it is possible to exhibit physical properties different from macroscopic scale samples. Studying material systems at various mesoscopic scales will greatly deepen our understanding of the physical nature of materials and expand our understanding of physical laws. In the study of mesoscopic scale superconductors, since superconductors have some characteristic lengths, such as coherence length and superconducting penetration depth, the properties of superconductors will exhibit size effects when the scale of samples is comparable to these lengths. Superconductors with mesoscopic artificial structures exhibit abundant physical content, but many physical phenomena are still waiting for us to explore.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Far-infrared spectroscopy in superconductors and associated electron systems</title>
+      <link>https://Haremaster.github.io/en/post/far-infrared-spectroscopy-in-superconductors-and-associated-electron-systems/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/post/far-infrared-spectroscopy-in-superconductors-and-associated-electron-systems/</guid>
+      <description>&lt;p&gt;The properties of metal materials are mainly determined by the electrons near the Fermi surface. Far-infrared light is an electromagnetic wave of several wave-numbers to hundreds of wave-numbers, which is one of the important means to detect the electronic behavior near the Fermi surface. By measuring the reflection spectra of metals and superconducting materials and using the K-K transformation, we can obtain the photoconductance spectra of the materials under study, which can help us understand the charge dynamics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>High pressure studies of pseudoenergy gap and singular metallic states in hole-doped copper oxides</title>
+      <link>https://Haremaster.github.io/en/post/high-pressure-studies-of-pseudoenergy-gap-and-singular-metallic-states-in-hole-doped-copper-oxides/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/post/high-pressure-studies-of-pseudoenergy-gap-and-singular-metallic-states-in-hole-doped-copper-oxides/</guid>
+      <description>&lt;p&gt;The intrinsic relationship between pseudoenergy gap and superconductivity is studied by studying the charge, spin, orbit and lattice degrees of freedom of different underdoped copper oxide superconductors and their interactions from the pressure dimension. The proximity effect in the artificial lattice of superconductor and conventional metal is used to realize the singular metal state, which promotes the understanding of pseudoenergy gap behavior and non-Fermi liquid behavior of copper oxide superconductor.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Equipments | Welcom to CAS-IOP-SC3</title>
+    <link>https://Haremaster.github.io/en/equipment/</link>
+      <atom:link href="https://Haremaster.github.io/en/equipment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Equipments</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Haremaster.github.io/media/icon_hu7dd17cc0224d3601a310b079fcd176d1_654108_512x512_fill_lanczos_center_3.png</url>
+      <title>Equipments</title>
+      <link>https://Haremaster.github.io/en/equipment/</link>
+    </image>
+    
+    <item>
+      <title>Double room magnetron sputtering deposition system</title>
+      <link>https://Haremaster.github.io/en/equipment/double-room-magnetron-sputtering-deposition-system/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/double-room-magnetron-sputtering-deposition-system/</guid>
+      <description>&lt;p&gt;Growing  metal or other kinds of films Ultimate vacuum&amp;lt;1.3*10^-6Pa&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FTIR spectrometer</title>
+      <link>https://Haremaster.github.io/en/equipment/ftir-spectrometer/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/ftir-spectrometer/</guid>
+      <description>&lt;p&gt;measuring the reflectivity of condensed matter. Temperature range: 5-300K; Spectrum range: 10-12000cm-1&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated system with HP/LT</title>
+      <link>https://Haremaster.github.io/en/equipment/integrated-system-with-hplt/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/integrated-system-with-hplt/</guid>
+      <description>&lt;p&gt;Exploring for new superconductors and related mechanisms, P=100GPa, T=0.5K&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated system with HP/LT/MF</title>
+      <link>https://Haremaster.github.io/en/equipment/integrated-system-with-hpltmf/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/integrated-system-with-hpltmf/</guid>
+      <description>&lt;p&gt;Exploring for new superconductors and related mechanisms, P=100GPa, T=0.3K, H=14T&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integrated system with rotating magnetic fields</title>
+      <link>https://Haremaster.github.io/en/equipment/integrated-system-with-rotating-magnetic-fields/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/integrated-system-with-rotating-magnetic-fields/</guid>
+      <description>&lt;p&gt;Exploring for new superconductors and related mechanisms, P=100GPa, T=4K, Hc=8T, Ha=Hb=2T&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Physical Property Measurement System</title>
+      <link>https://Haremaster.github.io/en/equipment/ppms/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/ppms/</guid>
+      <description>&lt;p&gt;Measuring the electric characteristics and magnetic properties under low temperautre and high magnetic field.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scanning microwave impedance microscope</title>
+      <link>https://Haremaster.github.io/en/equipment/scanning-microwave-impedance-microscope/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/scanning-microwave-impedance-microscope/</guid>
+      <description>&lt;p&gt;The microwave impedance microscope based on AFM can detect the dielectric constant and electrical conductivity of materials in tens of nanometers.
+Temperature range 2-300K, maximum magnetic field 9T&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two-stage high pressure and high temperature press</title>
+      <link>https://Haremaster.github.io/en/equipment/two-stage-high-pressure-and-high-temperature-press/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/en/equipment/two-stage-high-pressure-and-high-temperature-press/</guid>
+      <description>&lt;p&gt;New material synthesis, P=20 Gpa, T=2000K&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
