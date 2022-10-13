@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究方向 | 欢迎来到中科院物理所SC3组</title>
+    <link>https://Haremaster.github.io/post/</link>
+      <atom:link href="https://Haremaster.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>研究方向</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 08 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Haremaster.github.io/media/icon_hu7dd17cc0224d3601a310b079fcd176d1_654108_512x512_fill_lanczos_center_3.png</url>
+      <title>研究方向</title>
+      <link>https://Haremaster.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>介观尺度超导体中量子现象的研究</title>
+      <link>https://Haremaster.github.io/post/%E4%BB%8B%E8%A7%82%E5%B0%BA%E5%BA%A6%E8%B6%85%E5%AF%BC%E4%BD%93%E4%B8%AD%E9%87%8F%E5%AD%90%E7%8E%B0%E8%B1%A1%E7%9A%84%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/post/%E4%BB%8B%E8%A7%82%E5%B0%BA%E5%BA%A6%E8%B6%85%E5%AF%BC%E4%BD%93%E4%B8%AD%E9%87%8F%E5%AD%90%E7%8E%B0%E8%B1%A1%E7%9A%84%E7%A0%94%E7%A9%B6/</guid>
+      <description>&lt;p&gt;当材料的尺度与其某个特征长度相当时，就有可能表现出与宏观尺度样品不同的物理性质。研究各种介观尺度的材料体系将大大加深我们对材料物理本质的理解，拓展我们对物理规律的认识。在介观尺度超导体的研究方面，由于超导体具有一些特征长度，如相干长度和超导穿透深度，当样品的尺度与这些长度相当时，超导体的性质就会表现出尺寸效应。具有介观尺度人工结构的超导体表现出了十分丰富的物理内容，而其中的诸多物理现象仍等待我们去探索。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>压力对铜氧化物超导体的母体影响</title>
+      <link>https://Haremaster.github.io/post/%E5%8E%8B%E5%8A%9B%E5%AF%B9%E9%93%9C%E6%B0%A7%E5%8C%96%E7%89%A9%E8%B6%85%E5%AF%BC%E4%BD%93%E7%9A%84%E6%AF%8D%E4%BD%93%E5%BD%B1%E5%93%8D/</link>
+      <pubDate>Fri, 08 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/post/%E5%8E%8B%E5%8A%9B%E5%AF%B9%E9%93%9C%E6%B0%A7%E5%8C%96%E7%89%A9%E8%B6%85%E5%AF%BC%E4%BD%93%E7%9A%84%E6%AF%8D%E4%BD%93%E5%BD%B1%E5%93%8D/</guid>
+      <description>&lt;p&gt;采用高压精细调控技术，包括高压原位电阻， 磁阻，霍尔效应，磁化率等测试技术，对铜氧化物超导体的母体进行研究，将这些不同的手段结合起来为关联体系中各自由度间的相互作用提供一个较完整的图像。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>空穴掺杂铜氧化物中赝能隙和奇异金属态的高压研究</title>
+      <link>https://Haremaster.github.io/post/%E7%A9%BA%E7%A9%B4%E6%8E%BA%E6%9D%82%E9%93%9C%E6%B0%A7%E5%8C%96%E7%89%A9%E4%B8%AD%E8%B5%9D%E8%83%BD%E9%9A%99%E5%92%8C%E5%A5%87%E5%BC%82%E9%87%91%E5%B1%9E%E6%80%81%E7%9A%84%E9%AB%98%E5%8E%8B%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/post/%E7%A9%BA%E7%A9%B4%E6%8E%BA%E6%9D%82%E9%93%9C%E6%B0%A7%E5%8C%96%E7%89%A9%E4%B8%AD%E8%B5%9D%E8%83%BD%E9%9A%99%E5%92%8C%E5%A5%87%E5%BC%82%E9%87%91%E5%B1%9E%E6%80%81%E7%9A%84%E9%AB%98%E5%8E%8B%E7%A0%94%E7%A9%B6/</guid>
+      <description>&lt;p&gt;从压力维度研究不同欠掺杂铜氧化物超导体的电荷、自旋、轨道和晶格等自由度及其之间相互作用的关联性来研究赝能隙与超导电性的内在关系。利用超导与常规金属的人工晶格中的邻近效应来实现奇异金属态，促进对铜氧化物超导体的赝能隙行为以及非费米液行为的理解。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>超导体和关联电子体系中的远红外光谱学研究</title>
+      <link>https://Haremaster.github.io/post/%E8%B6%85%E5%AF%BC%E4%BD%93%E5%92%8C%E5%85%B3%E8%81%94%E7%94%B5%E5%AD%90%E4%BD%93%E7%B3%BB%E4%B8%AD%E7%9A%84%E8%BF%9C%E7%BA%A2%E5%A4%96%E5%85%89%E8%B0%B1%E5%AD%A6%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/post/%E8%B6%85%E5%AF%BC%E4%BD%93%E5%92%8C%E5%85%B3%E8%81%94%E7%94%B5%E5%AD%90%E4%BD%93%E7%B3%BB%E4%B8%AD%E7%9A%84%E8%BF%9C%E7%BA%A2%E5%A4%96%E5%85%89%E8%B0%B1%E5%AD%A6%E7%A0%94%E7%A9%B6/</guid>
+      <description>&lt;p&gt;金属材料的性质主要是由其费米面附近的电子所决定的，远红外光为几个波数到几百个波数的电磁波，它是探测费米面附近电子行为的重要手段之一。通过测量金属和超导材料的反射谱，再利用K-K变换，我们就可以得到所研究材料的光电导谱，从而帮助我们理解起电荷动力学过程。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
