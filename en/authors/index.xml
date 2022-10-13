@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Welcom to CAS-IOP-SC3</title>
+    <link>https://Haremaster.github.io/en/authors/</link>
+      <atom:link href="https://Haremaster.github.io/en/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1970 08:00:04 +0800</lastBuildDate>
+    <image>
+      <url>https://Haremaster.github.io/media/icon_hu7dd17cc0224d3601a310b079fcd176d1_654108_512x512_fill_lanczos_center_3.png</url>
+      <title>Authors</title>
+      <link>https://Haremaster.github.io/en/authors/</link>
+    </image>
+    
+  </channel>
+</rss>
