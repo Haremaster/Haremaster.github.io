@@ -509,6 +509,14 @@
     </item>
     
     <item>
+      <title>主页</title>
+      <link>https://Haremaster.github.io/tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://Haremaster.github.io/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>人员构成</title>
       <link>https://Haremaster.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -521,14 +529,6 @@
       <link>https://Haremaster.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://Haremaster.github.io/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>首页</title>
-      <link>https://Haremaster.github.io/index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://Haremaster.github.io/index/</guid>
       <description></description>
     </item>
     
